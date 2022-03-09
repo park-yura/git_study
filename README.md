@@ -6,11 +6,11 @@
 
 ### 과제 GitHub 시작하기 동영상
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/M9_uiYHgWwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/M9_uiYHgWwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ### 과제 sourcetree 사용 동영상
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/HwjSvLlF-cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/HwjSvLlF-cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ### 힘들지만 극복한 점
 - Git을 처음 접해서 초반에는 많이 헤맸지만, 이번 수업을 통해 git에 대한 이해도가 증가했고 GitHub, Sourcetree, eclipse의 사용법을 익힌게 앞으로 수업에서 많은 도움이 될 것 같다. 
